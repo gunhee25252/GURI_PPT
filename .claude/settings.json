@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm list:*)",
+      "Bash(where magick:*)",
+      "Bash(where convert:*)",
+      "Bash(where gswin64c:*)",
+      "Bash(where gswin32c:*)",
+      "Bash(where powershell:*)"
+    ]
+  }
+}
